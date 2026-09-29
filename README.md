@@ -27,25 +27,35 @@ The application works locally on the device using SQLite, making it suitable for
 
 ## Screenshots
 
-### Dashboard
+<h3 align="center">Dashboard</h3>
 
-<img src="screenshots/dashboard.png" alt="Dashboard" width="300">
+<p align="center">
+  <img src="screenshots/dashboard.png" alt="Dashboard" width="350">
+</p>
 
-### QR Scanner
+<h3 align="center">QR Scanner</h3>
 
-<img src="screenshots/qr-scanner.png" alt="QR Scanner" width="300">
+<p align="center">
+  <img src="screenshots/qr-scanner.png" alt="QR Scanner" width="350">
+</p>
 
-### Create Invitation
+<h3 align="center">Create Invitation</h3>
 
-<img src="screenshots/create-invitation.png" alt="Create Invitation" width="300">
+<p align="center">
+  <img src="screenshots/create-invitation.png" alt="Create Invitation" width="350">
+</p>
 
-### Invitations List
+<h3 align="center">Invitations List</h3>
 
-<img src="screenshots/invitations-list.png" alt="Invitations List" width="300">
+<p align="center">
+  <img src="screenshots/invitations-list.png" alt="Invitations List" width="350">
+</p>
 
-### Generated Invitation QR
+<h3 align="center">Generated Invitation QR</h3>
 
-<img src="screenshots/wedding-invitation.png" alt="Wedding Invitation" width="300">
+<p align="center">
+  <img src="screenshots/wedding-invitation.png" alt="Wedding Invitation" width="350">
+</p>
 
 
 ## Architecture
