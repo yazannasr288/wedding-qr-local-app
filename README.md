@@ -29,23 +29,24 @@ The application works locally on the device using SQLite, making it suitable for
 
 ### Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+<img src="screenshots/dashboard.png" alt="Dashboard" width="300">
 
 ### QR Scanner
 
-![QR Scanner](screenshots/qr-scanner.png)
+<img src="screenshots/qr-scanner.png" alt="QR Scanner" width="300">
 
 ### Create Invitation
 
-![Create Invitation](screenshots/create-invitation.png)
+<img src="screenshots/create-invitation.png" alt="Create Invitation" width="300">
 
 ### Invitations List
 
-![Invitations List](screenshots/invitations-list.png)
+<img src="screenshots/invitations-list.png" alt="Invitations List" width="300">
 
 ### Generated Invitation QR
 
-![Wedding Invitation](screenshots/wedding-invitation.png)
+<img src="screenshots/wedding-invitation.png" alt="Wedding Invitation" width="300">
+
 
 ## Architecture
 
